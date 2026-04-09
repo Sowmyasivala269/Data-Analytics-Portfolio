@@ -32,3 +32,6 @@ Open to Data Analyst roles
 ## Contact
 - sowmya.sivala@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/sowmyasivala2609/)
+
+---
+*Last updated: April 2026 | Actively building projects*
