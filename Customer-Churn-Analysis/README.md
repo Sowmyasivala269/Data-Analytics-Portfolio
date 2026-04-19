@@ -35,5 +35,5 @@ and what the business can do to stop it.
 ##  Tools Used
 Python · Pandas · Scikit-learn · Matplotlib · Power BI
 
-## 📊 Dashboard Preview
-![Dashboard]("Customer_Churn_Analysis_Dashboard.png")
+## Dashboard Preview
+![Dashboard]("C:\Users\sowmy\Downloads\Customer_Churn_Analysis_Dashboard.png")
