@@ -36,4 +36,4 @@ and what the business can do to stop it.
 Python · Pandas · Scikit-learn · Matplotlib · Power BI
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard]("C:\Users\sowmy\OneDrive\Pictures\Screenshots\Customer_Churn_Analysis_Dashboard.png")
